@@ -1,0 +1,1 @@
+给hello-springcloud-config-server项目使用的配置仓库
